@@ -1,11 +1,11 @@
 {
   "items" : [ {
     "id" : 914410,
-    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yMDU2MjQ5",
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA/dmlkZW9pZD0yMDU2MjQ5",
     "episode" : 1,
     "kind" : "озвучка",
     "language" : "russian",
-    "author" : "0KLQuNC80LjRgNC60LDQvSDQodC40Y7RhdC-0LIgJiDQnNCw0YDQs9Cw0YDQuNGC0LAg0KnQtdC70LrRg9C90L7QstCw"
+    "author" : "0KLQuNC80LjRgNC60LDQvSDQodC40Y7RhdC+0LIgJiDQnNCw0YDQs9Cw0YDQuNGC0LAg0KnQtdC70LrRg9C90L7QstCw"
   }, {
     "id" : 1733709,
     "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvOTA1OTM3",
@@ -15,7 +15,7 @@
     "author" : "QW55dGhpbmcgR3JvdXAgKE1pbGlyaW5hICYgU2FkX0tpdCk="
   }, {
     "id" : 1483827,
-    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yODg5MTkw",
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA/dmlkZW9pZD0yODg5MTkw",
     "episode" : 1,
     "kind" : "озвучка",
     "language" : "russian",
@@ -50,7 +50,7 @@
     "author" : "QW5pRmlsbSAoU29lciAmIE1leklkQSk="
   }, {
     "id" : 965875,
-    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yMzQ0ODI1",
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA/dmlkZW9pZD0yMzQ0ODI1",
     "episode" : 1,
     "kind" : "озвучка",
     "language" : "russian",
@@ -99,7 +99,7 @@
     "author" : ""
   }, {
     "id" : 1049588,
-    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yNDI5MzM3",
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA/dmlkZW9pZD0yNDI5MzM3",
     "episode" : 1,
     "kind" : "субтитры",
     "language" : "russian",
@@ -131,7 +131,7 @@
     "episode" : 1,
     "kind" : "субтитры",
     "language" : "unknown",
-    "author" : "0JjRgdC_0LDQvdGB0LrQuNC1"
+    "author" : "0JjRgdC/0LDQvdGB0LrQuNC1"
   }, {
     "id" : 997147,
     "url" : "aHR0cHM6Ly9zbW90cmV0YW5pbWUucnUvdHJhbnNsYXRpb25zL2VtYmVkLzg5MDEzNA==",
@@ -145,6 +145,6 @@
     "episode" : 1,
     "kind" : "субтитры",
     "language" : "russian",
-    "author" : "U9C-dmV0Um9tYW50aWNh"
+    "author" : "U9C+dmV0Um9tYW50aWNh"
   } ]
 }
