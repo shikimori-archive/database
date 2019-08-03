@@ -1,0 +1,31 @@
+{
+  "items" : [ {
+    "id" : 1247691,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvODY5MDIz",
+    "episode" : 1,
+    "kind" : "озвучка",
+    "language" : "russian",
+    "author" : "QVJS"
+  }, {
+    "id" : 1252572,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvODk1ODIw",
+    "episode" : 1,
+    "kind" : "оригинал",
+    "language" : "original",
+    "author" : "QVJS"
+  }, {
+    "id" : 1247692,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvODY5MDI0",
+    "episode" : 2,
+    "kind" : "озвучка",
+    "language" : "russian",
+    "author" : "QVJS"
+  }, {
+    "id" : 1252606,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvODk2MDMz",
+    "episode" : 2,
+    "kind" : "оригинал",
+    "language" : "original",
+    "author" : "QVJS"
+  } ]
+}

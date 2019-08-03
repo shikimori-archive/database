@@ -1,0 +1,45 @@
+{
+  "items" : [ {
+    "id" : 1184768,
+    "url" : "aHR0cHM6Ly9zbW90cmV0YW5pbWUucnUvdHJhbnNsYXRpb25zL2VtYmVkLzcwNTM5NQ==",
+    "episode" : 1,
+    "kind" : "озвучка",
+    "language" : "english",
+    "author" : ""
+  }, {
+    "id" : 1110190,
+    "url" : "aHR0cHM6Ly9zbW90cmV0YW5pbWUucnUvdHJhbnNsYXRpb25zL2VtYmVkLzU1MTM0OA==",
+    "episode" : 1,
+    "kind" : "оригинал",
+    "language" : "original",
+    "author" : ""
+  }, {
+    "id" : 1110191,
+    "url" : "aHR0cHM6Ly9zbW90cmV0YW5pbWUucnUvdHJhbnNsYXRpb25zL2VtYmVkLzU1MTM0OQ==",
+    "episode" : 1,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : ""
+  }, {
+    "id" : 1184769,
+    "url" : "aHR0cHM6Ly9zbW90cmV0YW5pbWUucnUvdHJhbnNsYXRpb25zL2VtYmVkLzcwNTM5Ng==",
+    "episode" : 1,
+    "kind" : "субтитры",
+    "language" : "english",
+    "author" : ""
+  }, {
+    "id" : 1584271,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMTQyODAwMg==",
+    "episode" : 2,
+    "kind" : "оригинал",
+    "language" : "original",
+    "author" : ""
+  }, {
+    "id" : 1584270,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMTQyODAwMw==",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "english",
+    "author" : ""
+  } ]
+}

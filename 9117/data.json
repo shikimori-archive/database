@@ -1,0 +1,80 @@
+{
+  "items" : [ {
+    "id" : 1882077,
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yMzYzNjM1",
+    "episode" : 1,
+    "kind" : "озвучка",
+    "language" : "russian",
+    "author" : "QW5pTWVkaWEgKEFic3VyZCAmIEVsYWRpZWwpICgxLTMp"
+  }, {
+    "id" : 1719242,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMzMyNzM4",
+    "episode" : 1,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "S0JNIFRlYU0gKE9iZWxpa3ggJiBTYWt1cmFjaGlpKSAoMS0zKQ=="
+  }, {
+    "id" : 1808094,
+    "url" : "aHR0cDovL3ZpZGVvYXBpLm15Lm1haWwucnUvdmlkZW9zL2VtYmVkL21haWwvcHJpenJha182NjZfc3ZnLzc1LzIyNDYuaHRtbA==",
+    "episode" : 1,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "S0JNIFRlYU0gKE9iZWxpa3ggJiBTYWt1cmFjaGlpKSAoMS0zKQ=="
+  }, {
+    "id" : 1730477,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMzMyNTcx",
+    "episode" : 1,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "U29tZW9uZSAmIHBvd2Vyd2FyICYgemVlcm9zMjEgKDEtMyk="
+  }, {
+    "id" : 1882078,
+    "url" : "aHR0cDovL3ZpZGVvLnNpYm5ldC5ydS9zaGVsbC5waHA_dmlkZW9pZD0yMzYzNjM2",
+    "episode" : 2,
+    "kind" : "озвучка",
+    "language" : "russian",
+    "author" : "QW5pTWVkaWEgKEFic3VyZCAmIEVsYWRpZWwpICg0LTYp"
+  }, {
+    "id" : 1730480,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMzcyNzU4",
+    "episode" : 2,
+    "kind" : "оригинал",
+    "language" : "original",
+    "author" : "NC02"
+  }, {
+    "id" : 1730479,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvOTI0NTEx",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "english",
+    "author" : "NC02"
+  }, {
+    "id" : 1730481,
+    "url" : "aHR0cDovL3lvdXR1YmUuY29tL2VtYmVkL2d5clhlLWUteFBr",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "unknown",
+    "author" : "NC02"
+  }, {
+    "id" : 1719243,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMzMyNzIx",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "S0JNIFRlYU0gKE9iZWxpa3ggJiBTYWt1cmFjaGlpKSAoNC02KQ=="
+  }, {
+    "id" : 1808100,
+    "url" : "aHR0cDovL3ZpZGVvYXBpLm15Lm1haWwucnUvdmlkZW9zL2VtYmVkL21haWwvcHJpenJha182NjZfc3ZnLzc1LzIyNDguaHRtbA==",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "S0JNIFRlYU0gKE9iZWxpa3ggJiBTYWt1cmFjaGlpKSAoNC02KQ=="
+  }, {
+    "id" : 1730478,
+    "url" : "aHR0cDovL3Ntb3RyZXRhbmltZS5ydS90cmFuc2xhdGlvbnMvZW1iZWQvMzMyNTcw",
+    "episode" : 2,
+    "kind" : "субтитры",
+    "language" : "russian",
+    "author" : "U29tZW9uZSAmIHBvd2Vyd2FyICYgemVlcm9zMjEgKDQtNik="
+  } ]
+}
